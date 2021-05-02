@@ -1,1 +1,3 @@
-# CE888-Deployment-Lab10
+## HeartDiseaseUCI
+## Repository for Heart Disease UCI APP
+## Deployed to Heroku
